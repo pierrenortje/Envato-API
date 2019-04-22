@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.572
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Envato.API", "Envato.API\Envato.API.csproj", "{28198142-7547-4B4B-833D-0CE5EF6C933F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Envato.API.Tests", "Envato.API.Tests\Envato.API.Tests.csproj", "{D556B212-019B-4D26-A0C7-05E64EC9BFC3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{28198142-7547-4B4B-833D-0CE5EF6C933F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28198142-7547-4B4B-833D-0CE5EF6C933F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28198142-7547-4B4B-833D-0CE5EF6C933F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28198142-7547-4B4B-833D-0CE5EF6C933F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D556B212-019B-4D26-A0C7-05E64EC9BFC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D556B212-019B-4D26-A0C7-05E64EC9BFC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D556B212-019B-4D26-A0C7-05E64EC9BFC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D556B212-019B-4D26-A0C7-05E64EC9BFC3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B4C7C2A1-06E9-4352-8F6B-389F4FE4DC95}
+	EndGlobalSection
+EndGlobal

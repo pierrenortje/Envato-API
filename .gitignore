@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/Envato API/v15
+/Envato.API/bin
+/Envato.API/obj
+/Envato.API.Tests/bin
+/Envato.API.Tests/obj
